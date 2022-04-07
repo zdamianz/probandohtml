@@ -1,0 +1,22 @@
+*{
+	background-color: transparent;
+}
+
+h2 {
+	background-color: blueviolet;
+	color: white;
+	font-size:2em;
+	font-family: arial;
+	display: inline-block;
+	margin: 20px 10px ;
+ 	padding:100px;
+ 	box-sizing: border-box;
+	text-align:center ;
+	border-radius: 100px;
+	border: 10px solid whitesmoke;/*solid - dashed - double- groove- inset-outser-ridge*/
+	box-shadow: 10px 10px 20px 5px black;/*px sombra derecha -px sombra abajo -px difuminado px- contorno negro ancho*/
+	text-shadow:10px 10px 20px  black,10px 10px 20px  black ;/*sombra en letras*/
+	transform: rotate(10deg);/*funcion de rotar en grados*/
+
+}
+
